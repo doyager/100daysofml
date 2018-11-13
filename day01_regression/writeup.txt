@@ -88,3 +88,7 @@ R2 = Sample R square
 p = Number of predictors
 
 N = total sample size
+
+
+
+
