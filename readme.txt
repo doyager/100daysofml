@@ -6,4 +6,4 @@ Topic : Regression basics and types
 
 Description: Terms in Regression and type of regression
 
-Link:
+Link: https://github.com/doyager/100daysofml/tree/master/day01_regression
